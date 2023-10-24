@@ -7,8 +7,9 @@ CREATE TABLE IF NOT EXISTS teste (
  );
 
 INSERT INTO teste (name, qtt)
-	VALUES 	('¡rvore', 5),
+	VALUES 	('√Årvore', 5),
 		('Pedra', NULL);
 
 SELECT * FROM teste;
+
 
